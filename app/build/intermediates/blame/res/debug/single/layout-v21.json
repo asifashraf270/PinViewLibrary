@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\PinLockView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\PinLockView-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\PinLockView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\PinLockView-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\PinLockView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\layout_number_item.xml",
+        "source": "D:\\PinLockView-master\\app\\build\\intermediates\\exploded-aar\\com.andrognito.pinlockview\\pinlockview\\2.1.0\\res\\layout-v21\\layout_number_item.xml"
+    },
+    {
+        "merged": "D:\\PinLockView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\PinLockView-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\PinLockView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\PinLockView-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
